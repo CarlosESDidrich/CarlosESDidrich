@@ -1,4 +1,4 @@
-## Olá sou o Carlos Didrich, Júnior em Ciência de dados!
+## Olá sou o Carlos Didrich, Entusiasta de Back-End
 <div align="center">
   <a href="https://github.com/CarlosESDidrich">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosESDidrich&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
