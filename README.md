@@ -1,4 +1,6 @@
-## Olá sou o Carlos Didrich, Entusiasta de Data Science, Machine Learning, Deep Learning
+## Olá sou o Carlos Didrich,
+### Entusiasta de Data Science, Machine Learning, Deep Learning
+
 <div align="center">
   <a href="https://github.com/CarlosESDidrich">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosESDidrich&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
