@@ -1,5 +1,5 @@
 ## Olá sou o Carlos Didrich,
-### Entusiasta de Dados (Data Analytics, Data Science, IAs)
+### Entusiasta de Dados (Data Science, ML Engineer, Data Analytics)
 
 <div align="center">
   <a href="https://github.com/CarlosESDidrich">
