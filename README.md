@@ -1,5 +1,5 @@
 ## Olá sou o Carlos Didrich,
-### Entusiasta de Dados (Data Science, ML Engineer, Data Analytics)
+### Entusiasta de Tecnologia da Informação com ênfase em IAs, aprimorando os conhecimentos em projetos de pesquisa, onde apliquei habilidades em análise e tratamento de dados para treinamento de machine learning e deep learning e MLOps. Acredito no poder dos dados para aprimorar as tomadas de decisões.
 
 <div align="center">
   <a href="https://github.com/CarlosESDidrich">
