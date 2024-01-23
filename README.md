@@ -1,6 +1,9 @@
-## Olá sou o Carlos Didrich,
-### Entusiasta de Tecnologia da Informação com ênfase em IAs, aprimorando os conhecimentos em projetos de pesquisa, onde apliquei habilidades em análise e tratamento de dados para treinamento de machine learning e deep learning e MLOps. Acredito no poder dos dados para aprimorar as tomadas de decisões.
+##🔬Ciência de dados e o Agronegócio 🚜
+Formado em Técnico em agropecuária e Formando em Análise em desenvolvimento de sistemas busco conciliar a Tecnologia da Informação e o Agronegócio, visando potencializar o setor por meio da análise, interpretação dos dados. Desenvolvendo minhas habilidades através de projetos voltados ao agronegócio. 
 
+##🔗 Objetivo Profissional: Contribuir com insights para a transformação do agronegócio, explorando os dados gerados para auxiliar nas tomada de decisão do agronegócio.
+
+##🔍 Em busca de oportunidades desafiadoras e parcerias inovadoras na era dos dados do agronegócio🌾
 <div align="center">
   <a href="https://github.com/CarlosESDidrich">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosESDidrich&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
